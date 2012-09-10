@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+if (typeof ${1:condition} !== 'undefined') {
+	${2:// code}
+}
+]]></content>
+	<tabTrigger>undef</tabTrigger>
+	<scope>source.js</scope>
+	<description>fw - undefined</description>
+</snippet>

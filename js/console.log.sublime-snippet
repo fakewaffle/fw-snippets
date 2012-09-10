@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+console.log(${1:'${2:data}:', ${2:data}});
+]]></content>
+	<tabTrigger>cl</tabTrigger>
+	<scope>source.js</scope>
+	<description>fw - console.log(...)</description>
+</snippet>

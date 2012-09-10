@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+it('${1:should...}', function(done) {
+	${2:// code}
+
+	${3:done();}
+});
+]]></content>
+	<tabTrigger>it</tabTrigger>
+	<scope>source.js</scope>
+	<description>fw - it</description>
+</snippet>

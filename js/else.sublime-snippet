@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+else {
+	${1:// code}
+}
+]]></content>
+	<tabTrigger>else</tabTrigger>
+	<scope>source.js</scope>
+	<description>fw - else</description>
+</snippet>

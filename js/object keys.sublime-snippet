@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+Object.keys(${1:foo}).forEach(function(${2:key}) {
+	var ${3:foo} = ${1}[key];
+
+	${4:// code}
+});
+]]></content>
+	<tabTrigger>keys</tabTrigger>
+	<scope>source.js</scope>
+	<description>fw - Object.keys().forEach</description>
+</snippet>

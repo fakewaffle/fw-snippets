@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:foo}.forEach(function(${2:value, index}) {
+	${3:// code}
+});
+]]></content>
+	<tabTrigger>foreach</tabTrigger>
+	<scope>source.js</scope>
+	<description>fw - forEach</description>
+</snippet>

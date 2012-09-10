@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+(function() {
+	${1:// code}
+})();
+]]></content>
+	<tabTrigger>anon</tabTrigger>
+	<scope>source.js</scope>
+	<description>fw - anonymous function</description>
+</snippet>

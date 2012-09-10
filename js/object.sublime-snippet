@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+var foo = [
+	'${1:value}',
+	'${2:value}'
+];
+]]></content>
+	<tabTrigger>array</tabTrigger>
+	<scope>source.js</scope>
+	<description>fw - object</description>
+</snippet>

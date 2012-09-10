@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:var ${2:foo} = }[ '${3:value}', '${4:value}' ]${5:;}
+]]></content>
+	<tabTrigger>ia</tabTrigger>
+	<scope>source.js</scope>
+	<description>fw - inline array</description>
+</snippet>
