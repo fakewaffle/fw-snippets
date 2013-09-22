@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-fs.readdirSync(${2:path}).forEach(function(file) {
+fs.readdirSync( ${2:path} ).forEach( function ( file ) {
 	${3:// code}
-});
+} );
 ]]></content>
 	<tabTrigger>readdirSync</tabTrigger>
 	<scope>source.js</scope>

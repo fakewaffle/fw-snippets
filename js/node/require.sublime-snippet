@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-var ${1:module} = require('${2:${1:module}}');
+var ${1:module} = require( '${2:${1:module}}' );
 ]]></content>
 	<tabTrigger>req</tabTrigger>
 	<scope>source.js</scope>

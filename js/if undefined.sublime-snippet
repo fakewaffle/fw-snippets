@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-if (typeof ${1:condition} !== 'undefined') {
+if ( typeof ${1:condition} !== 'undefined' ) {
 	${2:// code}
 }
 ]]></content>

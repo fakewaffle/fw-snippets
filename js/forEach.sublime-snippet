@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-${1:foo}.forEach(function(${2:value, index}) {
-	${3:// code}
-});
+forEach( function ( ${2:value}, ${3:index} ) {
+	${4:// code}
+} );
 ]]></content>
 	<tabTrigger>foreach</tabTrigger>
 	<scope>source.js</scope>

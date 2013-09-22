@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-var ${1:foo} = function(${2:vars}) {
+var ${1:foo} = function ( ${2:vars} ) {
 	${3:// code}
 };
 ]]></content>
-	<tabTrigger>function</tabTrigger>
+	<tabTrigger>fn</tabTrigger>
 	<scope>source.js</scope>
 	<description>fw - function</description>
 </snippet>

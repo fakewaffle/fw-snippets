@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-app.${1:get}('/${2:route}', ${3:middleware}, function(request, response) {
+app.${1:get}( '/${2:route}', ${3:middleware}, function ( request, response ) {
 	${4:// code}
-});
+} );
 ]]></content>
 	<tabTrigger>app</tabTrigger>
 	<scope>source.js</scope>

@@ -1,10 +1,8 @@
 <snippet>
 	<content><![CDATA[
-if (${1:foo} ${2:===} ${3:bar}) {
+if ( ${1:foo} ${2:===} ${3:bar} ) {
 	${4:// code}
-}${5: else {
-	${6:// code}
-\}}
+}
 ]]></content>
 	<tabTrigger>if</tabTrigger>
 	<scope>source.js</scope>

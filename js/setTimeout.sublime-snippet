@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-setTimeout(function() {
+setTimeout( function () {
 	${2:// code}
-}, ${1:500});
+}, ${1:500} );
 ]]></content>
 	<tabTrigger>timeout</tabTrigger>
 	<scope>source.js</scope>

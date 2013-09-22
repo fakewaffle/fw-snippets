@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-describe('${1:description}', function() {
+describe( '${1:description}', function () {
 	${2:// code}
-});
+} );
 ]]></content>
 	<tabTrigger>describe</tabTrigger>
 	<scope>source.js</scope>

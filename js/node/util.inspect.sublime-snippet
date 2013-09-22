@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-console.log(util.inspect(${1:foo}, ${2:true, null}));
+console.log( util.inspect( ${1:foo}, ${2:true, null} ) );
 ]]></content>
 	<tabTrigger>inspect</tabTrigger>
 	<scope>source.js</scope>

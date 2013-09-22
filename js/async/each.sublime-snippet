@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+async.each${1:Series}( ${2:array}, function ( ${3:item}, callback ) {
+	${4:// Code}
+}${5:, function ( error ) {
+	${6:// Code}
+\}} );
+]]></content>
+	<tabTrigger>async.each</tabTrigger>
+	<scope>source.js</scope>
+	<description>fw - async.each</description>
+</snippet>
+

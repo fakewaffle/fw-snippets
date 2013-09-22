@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-var foo = {
-	'${1:key}' : '${2:value}',
-	'${3:key}' : '${4:value}'
-};
+var foo = [
+	'${1:value}',
+	'${2:value}'
+];
 ]]></content>
-	<tabTrigger>object</tabTrigger>
+	<tabTrigger>array</tabTrigger>
 	<scope>source.js</scope>
 	<description>fw - object</description>
 </snippet>

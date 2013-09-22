@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+async.series( [
+
+	// ${1:Comment}
+	function ( callback ) {
+		${2:// Code}
+	},
+
+	// ${3:Comment}
+	function ( callback ) {
+		${4:// Code}
+	}
+
+]${5:, function ( error, results ) {
+	${6:// Code}
+\}} );
+]]></content>
+	<tabTrigger>async.series</tabTrigger>
+	<scope>source.js</scope>
+	<description>fw - async.series</description>
+</snippet>
+
