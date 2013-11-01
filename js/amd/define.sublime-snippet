@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+define( function ( require ) {
+
+} );
+]]></content>
+	<tabTrigger>def</tabTrigger>
+	<scope>source.js</scope>
+	<description>AMD define statement (commonjs sugar style)</description>
+</snippet>
